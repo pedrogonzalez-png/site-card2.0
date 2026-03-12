@@ -220,7 +220,7 @@ input[type="checkbox"]:checked + .card-label .card-info {
   border-radius:6px;
   text-align:center;
   transition:all 0.3s ease;
-
+}
 
 
 .build-btn:hover{
@@ -249,5 +249,6 @@ input[type="checkbox"]:checked + .card-label .card-info {
   .card-container{
     margin-left:0;
   }
+
 
 }
